@@ -1,4 +1,4 @@
-Updated to compile with.net 4.8 in Visual Studio 2022, no other changes for [Rasta Mouse's ThreatCheck](https://github.com/rasta-mouse/ThreatCheck/)
+Updated to compile with .net 4.8 in Visual Studio 2022, no other changes for [Rasta Mouse's ThreatCheck](https://github.com/rasta-mouse/ThreatCheck/)
 
 ## ThreatCheck
 Modified version of [Matterpreter's](https://twitter.com/matterpreter) [DefenderCheck](https://github.com/matterpreter/DefenderCheck).
